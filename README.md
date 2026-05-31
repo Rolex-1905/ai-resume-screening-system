@@ -115,7 +115,7 @@ Each module is designed for modularity and separation of concerns.
 
 ### 2. Navigate to Project Folder
 ```bash
-cd Task_2/AI_Resume_Screening_System
+cd AI_Resume_Screening_System
 ```
 
 ### 3. Create Virtual Environment (Optional but Recommended)
