@@ -1,0 +1,18 @@
+Candidate Name: Rahul Sharma
+
+Skills:
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+SQL
+Natural Language Processing (NLP)
+
+Experience:
+3 years experience developing AI and machine learning solutions.
+
+Projects:
+Developed chatbot using NLP
+Built deep learning image classifier
+Implemented predictive analytics pipeline

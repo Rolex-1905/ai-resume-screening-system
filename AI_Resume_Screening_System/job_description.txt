@@ -1,0 +1,7 @@
+Job Title: Junior Machine Learning Engineer
+Job Description:
+We are seeking a Junior Machine Learning Engineer with strong foundational skills in Python, machine learning, and data handling. The candidate will be responsible for developing and implementing machine learning models to solve business problems and support data-driven decision-making.
+The role involves working with datasets for data preprocessing, feature engineering, and model training. The candidate will build predictive models for tasks such as classification and regression and evaluate model performance to improve accuracy and efficiency. Collaboration with team members to understand requirements and translate them into machine learning solutions is an important part of the role.
+The ideal candidate should have a good understanding of machine learning algorithms, both supervised and unsupervised, along with practical experience in Python programming and SQL for data manipulation and querying.
+Preferred experience includes one year of internship or project work in machine learning or data science, with exposure to projects such as customer churn prediction and sales forecasting models.
+Candidates with familiarity in data analysis libraries such as Pandas, NumPy, and Scikit-learn, as well as basic knowledge of data visualization and model deployment concepts, will be considered an advantage.

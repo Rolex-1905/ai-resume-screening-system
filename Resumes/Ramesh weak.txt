@@ -1,0 +1,13 @@
+Candidate Name: Ramesh
+
+Skills:
+Excel
+HTML
+CSS
+
+Experience:
+Fresher
+
+Projects:
+Simple portfolio website
+Basic spreadsheet automation
